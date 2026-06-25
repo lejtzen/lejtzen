@@ -8,7 +8,8 @@ Right now I’m at GoBrave, where I build marketing websites and web systems. Wh
 
 | Company                 | Role                    | Period    |
 | :---------------------- | :---------------------- | :-------- |
-| GoBrave                 | Web Developer           | 2021-     |
+| Fortnox                 | Software Developer      | 2026-     |
+| GoBrave                 | Web Developer           | 2021-2026 |
 | Visma Spcs (now Spiris) | Digital Sales Developer | 2019-2021 |
 | NordicFeel              | Frontend Developer      | 2017-2019 |
 | NordicFeel              | Content Designer        | 2013-2017 |
